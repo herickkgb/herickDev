@@ -21,7 +21,6 @@
   <a href="https://www.linkedin.com/in/herick-kgb222/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    
  ![Snake animation](https://github.com/herickkgb/herickkgb/blob/output/github-contribution-grid-snake.svg)
- [![readme](https://github-readme-stats.vercel.app/api/pin/?username=herickkgb&repo=herickkgb&theme=react)](https://github.com/herickkgb)
 </div>
 
 
