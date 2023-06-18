@@ -1,4 +1,7 @@
-<h1> Hi! My name is Herick </h1>
+<h1 align="center">
+    Oi Tudo bem? Eu sou o 
+    <a href="https://www.linkedin.com/in/herick-kgb222/">Herick Alves 😃️</a>
+  </h1>
 
 <div>
   <a href="https://github.com/herickkgb">
@@ -21,6 +24,10 @@
   <a href="https://www.linkedin.com/in/herick-kgb222/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <br>
 </div>
- ![Snake animation](https://github.com/herickkgb/herickkgb/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+
+  ![Snake animation](https://github.com/herickkgb/herickkgb/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
 
 
