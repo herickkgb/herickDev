@@ -24,8 +24,5 @@
 
 <div
  ![Snake animation](https://github.com/herickkgb/herickkgb/blob/output/github-contribution-grid-snake.svg)
- </div>
-
-<div
  [![readme](https://github-readme-stats.vercel.app/api/pin/?username=herickkgb&repo=herickkgb&theme=react)](https://github.com/herickkgb)
  </div>
