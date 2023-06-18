@@ -22,5 +22,5 @@
    
 </div>
 
-  ![Snake animation](https://github.com/herickkgb/herickDev/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/herickkgb/herickkgb/blob/output/github-contribution-grid-snake.svg)
  
