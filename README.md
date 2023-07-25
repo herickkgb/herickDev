@@ -10,7 +10,8 @@
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/herick-kgb222/" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/herick-kgb222/" height="30" width="40" /> 
+<a href="https://www.linkedin.com/in/herick-kgb222/">: Meu linkedin</a></a>
 </a>
 </p>
 
