@@ -1,18 +1,14 @@
 <h1 align="center">Olá 👋, sou Herick Alves Pereira</h1>
 <h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas pela Unifatecie, com foco atual em Java e tecnologias. Como um desenvolvedor em Java, estou sempre em busca de aprimorar minhas habilidades e conhecimentos em frameworks como Spring, Hibernate e JSF (Java Server Faces). Tenho experiência no desenvolvimento de aplicações web utilizando JSF, JSP, Servlets, PrimeFaces, JPA, Hibernate, Js HTML e CSS.</h3> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=herickkgb&label=Profile%20views&color=0e75b6&style=flat" alt="herickkgb" /> </p>
-
-<p align="left"> <a href ="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=herickkgb" alt="herickkgb" /></a> </p>
-
-- 📫 Como chegar até mim **jucefino98980@gamail.com**
-
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/herick-kgb222/" height="30" width="40" /> 
 <a href="https://www.linkedin.com/in/herick-kgb222/">: Meu linkedin</a></a>
 </a>
+</br>
+📫 E-mail: jucefino98980@gamail.com 
 </p>
 
 <h3 align="left">Idiomas e ferramentas:</h3>
