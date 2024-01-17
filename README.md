@@ -1,14 +1,15 @@
 <div>
   <h1 align="center">Oi, tudo bem? Eu sou o <a href="https://herickalves.github.io/perfil/"><i>Herick Alves</i></a> 😃️</h1>
   <p align="center">Formando em Análise e Desenvolvimento de Sistemas na <a href="https://www.unifatecie.edu.br/"><i>Unifatecie</i></a> 
-    <p align="center">
-  Sou um Desenvolvedor Back-end Java, utilizando tecnologias como Eclipse, IBM B2, JPA, Hibernate, SQL, PrimeFaces, RichFaces, e metodologias ágeis como Scrum.
-  Trabalho com ferramentas como Trello para gerenciamento de projetos.
+<p align="center">
+  Sou um Desenvolvedor Back-end Java, com experiência em tecnologias como Eclipse, IBM B2, JPA, Hibernate, SQL, PrimeFaces, RichFaces, e metodologias ágeis como Scrum.
+  Trabalho com ferramentas como Trello para gerenciamento de projetos e tenho expertise em Spring Boot, Spring JPA, MySQL, DTO e ModelMapper.
 </p>
 
 <p align="center">
   Meu foco está no desenvolvimento back-end em Java, buscando aprimorar minhas habilidades para contribuir em projetos desafiadores. Utilizo também o Git para controle de versão.
 </p>
+
 
 </div>
 
