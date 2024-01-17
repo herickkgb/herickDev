@@ -1,8 +1,15 @@
 <div>
   <h1 align="center">Oi, tudo bem? Eu sou o <a href="https://herickalves.github.io/perfil/"><i>Herick Alves</i></a> 😃️</h1>
-  <p align="center">Estudo Análise e Desenvolvimento de Sistemas na <a href="https://www.unifatecie.edu.br/"><i>Unifatecie</i></a> e atualmente sou estagiário em Java, trabalhando com tecnologias como Angular, MySQL, JSF e JSP PrimeFaces. Compartilho meu aprendizado aqui, no meu <a href="https://www.linkedin.com/in/herick-kgb222/"><i>LinkedIn</i></a> e no meu <a href="https://herickkgb.github.io/Meu-portfolio/"><i>portfólio</i></a> de projetos pessoais.
-  </p>
-  <p align="center">Meu foco é o desenvolvimento mobile para Android Kotlin / java, WEB com Java e Angular, utilizando também Android Studio,Eclipse, Git, Firebase e SQLite.</p>
+  <p align="center">Estudo Análise e Desenvolvimento de Sistemas na <a href="https://www.unifatecie.edu.br/"><i>Unifatecie</i></a> 
+    <p align="center">
+  Sou um Desenvolvedor Back-end Java, utilizando tecnologias como Eclipse, IBM B2, JPA, Hibernate, SQL, PrimeFaces, RichFaces, e metodologias ágeis como Scrum.
+  Trabalho com ferramentas como Trello para gerenciamento de projetos.
+</p>
+
+<p align="center">
+  Meu foco está no desenvolvimento back-end em Java, buscando aprimorar minhas habilidades para contribuir em projetos desafiadores. Utilizo também o Git para controle de versão.
+</p>
+
 </div>
 
 <div align="center">
