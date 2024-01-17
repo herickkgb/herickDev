@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Oi, tudo bem? Eu sou o <a href="https://herickalves.github.io/perfil/"><i>Herick Alves</i></a> 😃️</h1>
-  <p align="center">Estudo Análise e Desenvolvimento de Sistemas na <a href="https://www.unifatecie.edu.br/"><i>Unifatecie</i></a> 
+  <p align="center">Formando em Análise e Desenvolvimento de Sistemas na <a href="https://www.unifatecie.edu.br/"><i>Unifatecie</i></a> 
     <p align="center">
   Sou um Desenvolvedor Back-end Java, utilizando tecnologias como Eclipse, IBM B2, JPA, Hibernate, SQL, PrimeFaces, RichFaces, e metodologias ágeis como Scrum.
   Trabalho com ferramentas como Trello para gerenciamento de projetos.
