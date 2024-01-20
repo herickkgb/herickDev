@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">Oi, tudo bem? Eu sou o <a href="https://www.linkedin.com/in/herick-kgb222/"><i>Herick Alves</i></a> 😃️</h1>
+  <h1 align="center">Oi, tudo bem? Eu sou o <a href="https://www.linkedin.com/in/herick-kgb222/"><i>Herick Pereira</i></a> 😃️</h1>
   <p align="center">Formando em Análise e Desenvolvimento de Sistemas na <a href="https://www.unifatecie.edu.br/"><i>UNIFATECIE: Centro Universitário</i></a> 
 <p align="center">
   Sou um Desenvolvedor Back-end Java, com experiência em tecnologias como Eclipse, IBM B2, JPA, Hibernate, SQL, PrimeFaces, RichFaces, e metodologias ágeis como Scrum.
