@@ -1,6 +1,6 @@
 <div>
-  <h1 align="center">Oi, tudo bem? Eu sou o <a href="https://herickalves.github.io/perfil/"><i>Herick Alves</i></a> 😃️</h1>
-  <p align="center">Formando em Análise e Desenvolvimento de Sistemas na <a href="https://www.unifatecie.edu.br/"><i>Unifatecie</i></a> 
+  <h1 align="center">Oi, tudo bem? Eu sou o <a href="https://www.linkedin.com/in/herick-kgb222/"><i>Herick Alves</i></a> 😃️</h1>
+  <p align="center">Formando em Análise e Desenvolvimento de Sistemas na <a href="https://www.unifatecie.edu.br/"><i>UNIFATECIE: Centro Universitário</i></a> 
 <p align="center">
   Sou um Desenvolvedor Back-end Java, com experiência em tecnologias como Eclipse, IBM B2, JPA, Hibernate, SQL, PrimeFaces, RichFaces, e metodologias ágeis como Scrum.
   Trabalho com ferramentas como Trello para gerenciamento de projetos e tenho expertise em Spring Boot, Spring JPA, MySQL, DTO e ModelMapper.
@@ -9,29 +9,20 @@
 <p align="center">
   Meu foco está no desenvolvimento back-end em Java, buscando aprimorar minhas habilidades para contribuir em projetos desafiadores. Utilizo também o Git para controle de versão.
 </p>
-
-
 </div>
-
-<div align="center">
-  <a href="https://github.com/herickkgb">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=herickkgb&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herickkgb&theme=dracula&hide_border=false&&layout=compact"/>
-  </a>
-</div>
-
 <div align="center" valign="top"><br>
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
-  <img align="center" alt="Android Studio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"> 
-  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
-  <img align="center" alt="SQLite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
-  <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="JSF" height="30" width="40" src="https://fernandofranzini.files.wordpress.com/2014/03/jsf-logo-square.jpg">
-  <img align="center" alt="PrimeFaces" height="30" width="40" src="https://i2.wp.com/www.primefaces.org/wp-content/uploads/2016/10/primeng_solidBlack.png?fit=250%2C250&ssl=1">
-
+   <img align="center" alt="Java" height="50" width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png">
+   <img align="center" alt="Hibernate" src="https://img.shields.io/static/v1?style=for-the-badge&message=Hibernate&color=59666C&logo=Hibernate&logoColor=FFFFFF&label=">
+   <img align="center" alt="Maven" src="https://img.shields.io/static/v1?style=for-the-badge&message=Apache+Maven&color=C71A36&logo=Apache+Maven&logoColor=FFFFFF&label=">
+   <img align="center" alt="Lombok" height="50" width="50" src="https://user-images.githubusercontent.com/25181517/190229463-87fa862f-ccf0-48da-8023-940d287df610.png">
+   <img align="center" alt="Spring" src="https://img.shields.io/static/v1?style=for-the-badge&message=Spring&color=6DB33F&logo=Spring&logoColor=FFFFFF&label=">
+   <img align="center" alt="SpringBoot" src="https://img.shields.io/static/v1?style=for-the-badge&message=Spring&color=000000&logo=Spring&logoColor=FFFFFF&label=">
+   <img align="center" alt="MySQL" src="https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=">
+   <img align="center" alt="Eclipse IDE" src="https://img.shields.io/static/v1?style=for-the-badge&message=Eclipse+IDE&color=2C2255&logo=Eclipse+IDE&logoColor=FFFFFF&label="> 
+   <img align="center" alt="Git" src="https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=">
+   <img align="center" alt="Angular" height="50" width="50"  src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png">
+   <img align="center" alt="PrimeFaces" src="https://primefaces.org/showcase/javax.faces.resource/images/primefaces-logo.svg.xhtml?ln=showcase">
+   <img align="center" alt="Apache" src="https://img.shields.io/static/v1?style=for-the-badge&message=Apache&color=D22128&logo=Apache&logoColor=FFFFFF&label=">
 </div><br>
 
 <div align="center">
