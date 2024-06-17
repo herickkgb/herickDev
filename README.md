@@ -21,11 +21,15 @@ Back End:
 - <img src="https://img.shields.io/badge/JPA-02303A?style=for-the-badge&logoColor=white"/>
 - <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
 - <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white"/>
-- <img src="https://img.shields.io/badge/PrimeFaces-0288D1?style=for-the-badge&logo=primefaces&logoColor=white"/>
 - <img src="https://img.shields.io/badge/MVC-263238?style=for-the-badge&logoColor=white"/>
 - <img src="https://img.shields.io/badge/Lombok-BC2E26?style=for-the-badge&logoColor=white"/>
 - <img src="https://img.shields.io/badge/Eclipse_IDE-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
 
+Front End:
+- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+- <img src="https://img.shields.io/badge/PrimeFaces-0288D1?style=for-the-badge&logo=primefaces&logoColor=white"/>
+- <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
 
 Mobile: 
 - <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/>
