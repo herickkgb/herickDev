@@ -1,10 +1,6 @@
 # 💫 Sobre mim:
 Desenvolvedor Java Full Stack e Mobile apaixonado por tecnologia! Desenvolvendo soluções desde 2022 com Java e Kotlin. Comecei a programar no Centro Universitário UniFatecie, onde me formei em Análise de Sistemas.
 
-Tenho um grande interesse em desenvolver aplicações robustas e ensinar outros desenvolvedores a iniciarem na carreira de desenvolvimento.
-
-**Atualmente:** Trabalhando como Engenheiro de Software Júnior na Letwe Innovation.
-
 # 📧 Contato:
 
 <a href="mailto:jucefino9890@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/><a/>
