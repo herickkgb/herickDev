@@ -29,6 +29,7 @@ Desenvolvedor Java Full Stack e Mobile apaixonado por tecnologia! Desenvolvendo 
  ![PrimeFaces](https://img.shields.io/badge/PrimeFaces-0288D1?style=for-the-badge&logo=primefaces&logoColor=white)
  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
+<!-- 
 ### Mobile: 
  ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
@@ -37,7 +38,7 @@ Desenvolvedor Java Full Stack e Mobile apaixonado por tecnologia! Desenvolvendo 
  ![LiveData](https://img.shields.io/badge/LiveData-018787?style=for-the-badge&logoColor=white)
  ![Navigation](https://img.shields.io/badge/Navigation-3DDC84?style=for-the-badge&logoColor=white)
  ![Maps](https://img.shields.io/badge/Maps-1976D2?style=for-the-badge&logo=google-maps&logoColor=white)
- ![APIs RestFull](https://img.shields.io/badge/APIs_RestFull-263238?style=for-the-badge&logoColor=white)
+ ![APIs RestFull](https://img.shields.io/badge/APIs_RestFull-263238?style=for-the-badge&logoColor=white) -->
 
 ---
 
