@@ -9,6 +9,27 @@ Desenvolvedor Java Full Stack e Mobile apaixonado por tecnologia! Desenvolvendo 
 
 # Experiência
 
+### Experiência Profissional
+
+#### Letwe Innovation | Engenheiro de Software Júnior
+**02/2024 - 05/2024**
+- Desenvolvimento e manutenção de sistemas Java utilizando PrimeFaces e Hibernate para web e testes com TestNG / selenium.
+- Implementação de interfaces de usuário com JSF.
+- Desenvolvimento de aplicações Android android studio, java, XML e testes com TestNG / selenium.
+- Realização de consultas eficientes em bancos de dados SQL e HQL com JPA.
+- Criação de soluções inovadoras e robustas para necessidades tecnológicas.
+
+#### Prodemge | Estagiário de Analista de TI e Desenvolvimento de Sistemas
+**09/2022 - 02/2024**
+- Desenvolvimento full-stack com Java no back-end e HTML, CSS e JavaScript no front-end.
+- Enriquecimento do front-end com RichFaces.
+- Gerenciamento de dados com IBM Db2, JPA e Hibernate.
+- Garantia de estabilidade de desempenho com o servidor JBoss.
+- Implantação facilitada com Jenkins.
+- Adoção de metodologias ágeis Scrum utilizando Trello.
+  
+ ---
+
 ### Metodologias/Frameworks Ágil:
  ![SCRUM](https://img.shields.io/badge/SCRUM-6DB33F?style=for-the-badge&logoColor=white)
  ![Kanban](https://img.shields.io/badge/Kanban-0079BF?style=for-the-badge&logoColor=white)
