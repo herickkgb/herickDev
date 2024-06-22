@@ -24,6 +24,7 @@ Desenvolvedor Java Full Stack e Mobile apaixonado por tecnologia! Desenvolvendo 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
 ![MVC](https://img.shields.io/badge/MVC-263238?style=for-the-badge&logoColor=white)
 ![Lombok](https://img.shields.io/badge/Lombok-BC2E26?style=for-the-badge&logoColor=white)
+![TDD](https://img.shields.io/badge/TDD-FFA500?style=for-the-badge&logoColor=white)
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse_IDE-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 
 ### Front End:
