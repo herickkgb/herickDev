@@ -12,16 +12,19 @@ Desenvolvedor Java Full Stack e Mobile apaixonado por tecnologia! Desenvolvendo 
 ### Metodologias/Frameworks Ágil:
  ![SCRUM](https://img.shields.io/badge/SCRUM-6DB33F?style=for-the-badge&logoColor=white)
  ![Kanban](https://img.shields.io/badge/Kanban-0079BF?style=for-the-badge&logoColor=white)
-
+ 
 ### Back End: 
- ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
- ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
- ![JPA](https://img.shields.io/badge/JPA-02303A?style=for-the-badge&logoColor=white)
- ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
- ![MVC](https://img.shields.io/badge/MVC-263238?style=for-the-badge&logoColor=white)
- ![Lombok](https://img.shields.io/badge/Lombok-BC2E26?style=for-the-badge&logoColor=white)
- ![Eclipse IDE](https://img.shields.io/badge/Eclipse_IDE-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-02303A?style=for-the-badge&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-80C342?style=for-the-badge&logo=mockito&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
+![MVC](https://img.shields.io/badge/MVC-263238?style=for-the-badge&logoColor=white)
+![Lombok](https://img.shields.io/badge/Lombok-BC2E26?style=for-the-badge&logoColor=white)
+![Eclipse IDE](https://img.shields.io/badge/Eclipse_IDE-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 
 ### Front End:
  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
